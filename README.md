@@ -5,7 +5,7 @@ A comprehensive Next.js dashboard for monitoring **mump2p** performance, trackin
 🔗 **Live Demo**: https://optimum-validator-dashboard.vercel.app
 📦 **Built by**: [@your-username](https://github.com/your-username)
 
-## 🚀 Features
+##  Features
 - 📊 Real-time metrics: propagation latency (p50/p95/p99), bandwidth savings, mesh health, packet recovery
 - 📈 Interactive charts with Recharts (latency trends, regional comparison, area charts)
 - 📖 Stories & Media Hub: Optimum milestones, research highlights, brand assets
